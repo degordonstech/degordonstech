@@ -1,6 +1,6 @@
 <h1 align="center">Godwin Danjuma</h1>
 <p align="center"><strong>AI-native Solutions Architect &amp; System Builder</strong></p>
-<p align="center">I design and ship complete production systems solo — real-time API integrations,<br/>event-driven pipelines, and full SaaS products, end to end.</p>
+<p align="center">I design and ship complete production systems solo: real-time API integrations,<br/>event-driven pipelines, and full SaaS products, end to end.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available_for-Remote_Contract_%7C_Full--time-2ea44f?style=for-the-badge" alt="Available for remote contract or full-time"/>
@@ -10,13 +10,13 @@
 
 ### Featured work
 
-**[P2Proof](https://p2proof.vercel.app)** — production fintech SaaS for African P2P crypto merchants on Bybit &amp; Bitget.
+**[P2Proof](https://p2proof.vercel.app)** is a production fintech SaaS for African P2P crypto merchants on Bybit and Bitget.
 Multi-exchange sync via read-only keys, AES-256-GCM key encryption, row-level security on every table, a self-healing cron pipeline, Telegram alerts, bank-ready evidence PDFs, Paystack billing, an interactive learning academy, and a Google Play app (TWA). Built solo, end to end.
 
 `Next.js` · `TypeScript` · `Supabase / Postgres` · `Vercel`
 
-**WhatBiz** — AI-powered conversational-commerce &amp; automation platform.
-Turns WhatsApp, Instagram and Messenger into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, **negotiates price**, and closes with cart-to-chat checkout and Paystack payment links — plus native receipt, invoice and QR/wa.me tools.
+**WhatBiz** is an AI-powered conversational-commerce and automation platform.
+It turns WhatsApp, Instagram and Messenger into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, negotiates price, and closes with cart-to-chat checkout and Paystack payment links, plus native receipt, invoice and QR/wa.me tools.
 
 `Next.js` · `Supabase` · `Meta / WhatsApp APIs` · `Paystack`
 
@@ -24,7 +24,7 @@ Turns WhatsApp, Instagram and Messenger into automated 24/7 sales reps: an AI co
 
 ### How I work
 
-AI-native and ship-fast. I own the whole stack — database, API integrations, background pipelines, billing, and mobile — and turn operational chaos into systems that quietly run themselves.
+AI-native and ship-fast. I own the whole stack (database, API integrations, background pipelines, billing, and mobile) and turn operational chaos into systems that quietly run themselves.
 
 ### Stack
 
