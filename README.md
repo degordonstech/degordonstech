@@ -15,7 +15,7 @@ Multi-exchange sync via read-only keys, AES-256-GCM key encryption, row-level se
 
 `Next.js` · `TypeScript` · `Supabase / Postgres` · `Vercel`
 
-**WhatBiz** is an AI-powered conversational-commerce and automation platform.
+**[WhatBiz](https://whatbizapp.com)** is an AI-powered conversational-commerce and automation platform.
 It turns WhatsApp, Instagram and Messenger into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, negotiates price, and closes with cart-to-chat checkout and Paystack payment links, plus native receipt, invoice and QR/wa.me tools.
 
 `Next.js` · `Supabase` · `Meta / WhatsApp APIs` · `Paystack`
