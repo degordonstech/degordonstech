@@ -1,6 +1,6 @@
 <h1 align="center">Godwin Danjuma</h1>
 <p align="center"><strong>AI-native Solutions Architect &amp; System Builder</strong></p>
-<p align="center">I design and ship complete production systems solo: real-time API integrations,<br/>event-driven pipelines, and full SaaS products, end to end.</p>
+<p align="center">I design and ship complete production systems end to end: real-time API integrations,<br/>event-driven pipelines, and full SaaS products. Comfortable owning the whole stack alone,<br/>and just as comfortable inside a team.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available_for-Remote_Contract_%7C_Full--time-2ea44f?style=for-the-badge" alt="Available for remote contract or full-time"/>
@@ -11,20 +11,25 @@
 ### Featured work
 
 **[P2Proof](https://p2proof.vercel.app)** is a production fintech SaaS for African P2P crypto merchants on Bybit and Bitget.
-Multi-exchange sync via read-only keys, AES-256-GCM key encryption, row-level security on every table, a self-healing cron pipeline, Telegram alerts, bank-ready evidence PDFs, Paystack billing, an interactive learning academy, and a Google Play app (TWA). Built solo, end to end.
+Multi-exchange sync via read-only keys, AES-256-GCM key encryption, row-level security on every table, a self-healing cron pipeline, Telegram alerts, bank-ready evidence PDFs, Paystack billing, an interactive learning academy, and a Google Play app (TWA). Built end to end.
 
 `Next.js` · `TypeScript` · `Supabase / Postgres` · `Vercel`
 
 **[WhatBiz](https://whatbizapp.com)** is an AI-powered conversational-commerce and automation platform.
-It turns WhatsApp, Instagram and Messenger into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, negotiates price, and closes with cart-to-chat checkout and Paystack payment links, plus native receipt, invoice and QR/wa.me tools.
+It turns WhatsApp, Instagram, Messenger, Telegram and TikTok into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, negotiates price, collects managed payments to the seller's own bank, and books nationwide delivery, all from one inbox.
 
-`Next.js` · `Supabase` · `Meta / WhatsApp APIs` · `Paystack`
+`Next.js` · `Supabase` · `Meta / WhatsApp APIs` · `Paystack` · `Shipbubble`
+
+**[pwa2play](https://github.com/degordonstech/pwa2play)** is an open-source Claude Code plugin that packages a PWA into a signed, Play-Store-ready Android app.
+It wraps Bubblewrap and bakes in the rules that usually get uploads rejected, signing-key reuse, the app-signing fingerprint in `assetlinks.json`, version-code bumps, and the current target API, plus a script that reads the real target API out of a built APK before you upload.
+
+`Claude Code plugin` · `Node.js` · `Bubblewrap / TWA`
 
 ---
 
 ### How I work
 
-AI-native and ship-fast. I own the whole stack (database, API integrations, background pipelines, billing, and mobile) and turn operational chaos into systems that quietly run themselves.
+AI-native and ship-fast. I own the whole stack, database, API integrations, background pipelines, billing, and mobile, and turn operational chaos into systems that quietly run themselves. Owning the full stack is a capability, not a preference for working alone: I collaborate well, write things down, explain the trade-offs in plain language, and leave the code readable for whoever comes next.
 
 ### Stack
 
@@ -40,6 +45,7 @@ AI-native and ship-fast. I own the whole stack (database, API integrations, back
 ### Reach me
 
 - **Portfolio:** [degordons.xyz](https://degordons.xyz)
-- **Email:** degordons.t@gmail.com
+- **Email:** hello@degordons.xyz
+- **X / Instagram / TikTok:** [@degordons_](https://x.com/degordons_)
 
 <sub>Solutions architecture · full-stack · AI/LLM integration · payments · fintech · conversational commerce</sub>
