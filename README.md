@@ -1,35 +1,48 @@
 <h1 align="center">Godwin Danjuma</h1>
 <p align="center"><strong>AI-native Solutions Architect &amp; System Builder</strong></p>
-<p align="center">I design and ship complete production systems end to end: real-time API integrations,<br/>event-driven pipelines, and full SaaS products. Comfortable owning the whole stack alone,<br/>and just as comfortable inside a team.</p>
+<p align="center">I design and ship complete production systems end to end: payments, chat automation,<br/>API integrations and full SaaS products. Comfortable owning the whole stack alone,<br/>and just as comfortable inside a team.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available_for-Remote_Contract_%7C_Full--time-2ea44f?style=for-the-badge" alt="Available for remote contract or full-time"/>
+  <a href="https://degordons.xyz">Portfolio</a> · <a href="https://degordons.com">Studio</a> · <a href="https://x.com/degordons_">X</a> · <a href="mailto:hello@degordons.xyz">hello@degordons.xyz</a>
 </p>
 
----
+### `~/hire-me`
 
-### Featured work
+<p align="center">
+  <a href="https://degordons.xyz/contact">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="art/hire-me-dark.svg">
+      <img src="art/hire-me-light.svg" alt="HIRE ME drawn as a GitHub contribution grid" width="100%">
+    </picture>
+  </a>
+</p>
 
-**[P2Proof](https://p2proof.vercel.app)** is a production fintech SaaS for African P2P crypto merchants on Bybit and Bitget.
-Multi-exchange sync via read-only keys, AES-256-GCM key encryption, row-level security on every table, a self-healing cron pipeline, Telegram alerts, bank-ready evidence PDFs, Paystack billing, an interactive learning academy, and a Google Play app (TWA). Built end to end.
-
-`Next.js` · `TypeScript` · `Supabase / Postgres` · `Vercel`
-
-**[WhatBiz](https://whatbizapp.com)** is an AI-powered conversational-commerce and automation platform.
-It turns WhatsApp, Instagram, Messenger, Telegram and TikTok into automated 24/7 sales reps: an AI copilot that chats, pulls live catalog, negotiates price, collects managed payments to the seller's own bank, and books nationwide delivery, all from one inbox.
-
-`Next.js` · `Supabase` · `Meta / WhatsApp APIs` · `Paystack` · `Shipbubble`
-
-**[pwa2play](https://github.com/degordonstech/pwa2play)** is an open-source Claude Code plugin that packages a PWA into a signed, Play-Store-ready Android app.
-It wraps Bubblewrap and bakes in the rules that usually get uploads rejected, signing-key reuse, the app-signing fingerprint in `assetlinks.json`, version-code bumps, and the current target API, plus a script that reads the real target API out of a built APK before you upload.
-
-`Claude Code plugin` · `Node.js` · `Bubblewrap / TWA`
+<p align="center"><sub>Decorative artwork, not contribution data. Open to remote contract or full-time work.</sub></p>
 
 ---
 
-### How I work
+### Products
 
-AI-native and ship-fast. I own the whole stack, database, API integrations, background pipelines, billing, and mobile, and turn operational chaos into systems that quietly run themselves. Owning the full stack is a capability, not a preference for working alone: I collaborate well, write things down, explain the trade-offs in plain language, and leave the code readable for whoever comes next.
+**[Sellnudge](https://sellnudge.com)** is an AI sales assistant for businesses that sell in chat. It answers customers on WhatsApp, Instagram, Facebook, Telegram and TikTok with real prices and stock, takes the order, collects payment straight to the seller's bank, and books the delivery. Live on Google Play.
+
+`Next.js` · `Supabase` · `Meta APIs` · `Paystack` · `Shipbubble`
+
+**[Nudge](https://creators.sellnudge.com)** is comment to DM for Instagram and Facebook, approved by Meta. Someone comments a keyword, they get the owner's message in seconds.
+
+`Next.js` · `Supabase` · `Instagram and Facebook Graph APIs`
+
+**[P2Proof](https://p2proof.vercel.app)** is profit and record keeping for P2P crypto traders on Bybit and Bitget: true profit after fees and bank-ready evidence, across 16 African countries.
+
+`Next.js` · `TypeScript` · `Supabase` · `Telegram`
+
+### Open source
+
+| Project | What it does |
+|---|---|
+| [pwa2play](https://github.com/degordonstech/pwa2play) | Claude Code plugin that packages a PWA into a signed Play Store app |
+| [serverless-audit](https://github.com/degordonstech/serverless-audit) | Claude Code plugin that finds code that works locally and breaks on serverless |
+| [app-review](https://github.com/degordonstech/app-review) | Claude Code plugin that writes Meta, TikTok and Google Play review submissions from your code |
+| [whatsapp-doctor](https://github.com/degordonstech/whatsapp-doctor) | CLI that diagnoses a WhatsApp Cloud API setup |
 
 ### Stack
 
@@ -41,11 +54,4 @@ AI-native and ship-fast. I own the whole stack, database, API integrations, back
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-### Reach me
-
-- **Portfolio:** [degordons.xyz](https://degordons.xyz)
-- **Email:** hello@degordons.xyz
-- **X / Instagram / TikTok:** [@degordons_](https://x.com/degordons_)
-
-<sub>Solutions architecture · full-stack · AI/LLM integration · payments · fintech · conversational commerce</sub>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
